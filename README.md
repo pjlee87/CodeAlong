@@ -1,6 +1,6 @@
 class Dog
   def initialize(breed = nil)
   	@breed = breed
-  	puts "Woof!"
+  	puts "Woof Woof!"
   end
  end 	
